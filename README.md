@@ -28,6 +28,7 @@ Backend: Node.js, Express.js, MongoDB, Mongoose
 
 Auth: JSON Web Token (JWT) with cookies
 
+
 Environment Variables
 
 Create a .env file in the root and add:
